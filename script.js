@@ -131,3 +131,4 @@ function egal(event) {
   }
 }
 buttonEgal.addEventListener('click', egal);
+// modification
